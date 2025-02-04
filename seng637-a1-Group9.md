@@ -10,9 +10,6 @@
 
 **Table of Contents**
 
-(When you finish writing, update the following list using right click, then
-“Update Field”)
-
 [1 Introduction	1](#_Toc439194677)
 
 [2 High-level description of the exploratory testing plan	1](#_Toc439194678)
