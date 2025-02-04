@@ -100,8 +100,8 @@ Both team members split evenly the Exploratory Test, MFT and Regression Testing 
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
-Text…
+Exploratory testing was challenging at first because we worried about getting the steps wrong. We also recorded a lot of bugs that seemed similar, but without certainty, we included them all. Over time, we realized that certain recurring issues, like the incorrect card number appearing on receipts, didn’t necessarily mean other functionalities were failing. Another challenge was learning two platforms—Jira and Azure—which felt time-consuming, and their export options were not very user-friendly. In the end, we switched to Excel because it was the most efficient option.
 
 # Comments/feedback on the lab and lab document itself
 
-Text…
+The instructions felt scattered and unclear, making it hard to understand what was required. For example, the link to the Test Sample report didn’t work, so we weren’t sure what format to follow. We completed this report in markdown format, hoping it aligned with the expectations.
